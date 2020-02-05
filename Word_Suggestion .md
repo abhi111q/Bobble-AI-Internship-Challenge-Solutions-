@@ -17,9 +17,15 @@ Expected CLI Input:
 Hello, word2, word3, word4, word5
  
  
+ // Solution of above problem
+ 
+ 
 Language: C++
 
 Data Structure : BK Tree (BK Tree or Burkhard Keller Tree is a data structure that is used to perform spell check based on
                 Edit Distance (Levenshtein distance) concept. 
                 BK trees are also used for approximate string matching.)
+
+Steps to follow:
+1) Word_Suggestion_Bobble_AI.exe path misspelledWord
                 
